@@ -1,0 +1,8 @@
+Starting the Flask Stock Portfolio App...
+Calling the index() function.
+Calling the index() function.
+2022-09-25 19:04:33,246 INFO: Starting the Flask Stock Portfolio App... [in app.py:33]
+2022-09-25 19:06:52,791 INFO: Starting the Flask Stock Portfolio App... [in app.py:34]
+2022-09-25 19:09:17,432 INFO: Starting the Flask Stock Portfolio App... [in app.py:36]
+2022-09-25 19:12:30,553 INFO: Starting the Flask Stock Portfolio App... [in app.py:39]
+2022-09-25 19:12:56,877 INFO: Added new stock (SBUX)! [in app.py:75]
