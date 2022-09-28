@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Welcome to the Flask Stock Portfolio App!</h1>
+
+{% if company_name %}
+  <h2>Course developed by {{ company_name }}.</h2>
+{% else %}
+  <h2>Enjoy the course!</h2>
+{% endif %}
+<p>{{ pname }}</p>
+
+{% endblock %}
