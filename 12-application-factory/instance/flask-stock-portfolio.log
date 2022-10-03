@@ -1,0 +1,5 @@
+2022-10-03 05:52:25,981 INFO: Starting the Flask Stock Portfolio App... [in app.py:28]
+2022-10-03 06:15:18,201 INFO: Starting the Flask Stock Portfolio App... [in __init__.py:47]
+2022-10-03 06:15:29,726 INFO: Calling the index() function. [in routes.py:29]
+2022-10-03 06:15:46,704 INFO: Added new stock (F)! [in routes.py:50]
+2022-10-03 06:15:56,245 INFO: Calling the index() function. [in routes.py:29]
